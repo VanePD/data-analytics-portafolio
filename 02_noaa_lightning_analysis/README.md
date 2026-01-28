@@ -27,5 +27,5 @@ This project explores NOAA lightning strike data to understand temporal and spat
 
 **Note:** The data files are not included in this repository due to file size limitations.  
 The dataset can be downloaded from Kaggle:  
-[https://www.kaggle.com/datasets/XXXXXXXX](https://www.kaggle.com/datasets/likhari/noaa-lightenig-strikes-dataset2016-2018)
+(https://www.kaggle.com/datasets/likhari/noaa-lightenig-strikes-dataset2016-2018)
 
